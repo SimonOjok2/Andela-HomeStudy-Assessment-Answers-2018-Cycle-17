@@ -1,0 +1,6 @@
+{
+  "test_count_change.py::Test::test_should_handle_another_simple_case": true, 
+  "test_count_change.py::Test::test_should_handle_the_example_case": true, 
+  "test_exe1.py::Test": true, 
+  "test_number_game.py::Tests": true
+}

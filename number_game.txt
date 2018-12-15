@@ -1,0 +1,16 @@
+Given two numbers X and Y, write a function that:
+1 returns even numbers between X and Y, if X is greater than Y else it returns odd numbers between x and y
+For instance, take the integers 10 and 2 . the function would return all the even numbers between 2 and 10.
+
+Specification
+
+number_game(X, Y)
+
+Return a list of odd or even number between two integers X and Y
+
+Parameters
+X: Integer - The first integer provided
+Y: Integer - The second integer provided
+Return Value
+Integer - a list of odd or even numbers between x and y
+Examples:
